@@ -215,4 +215,4 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 Hi, I'm **Afroj Ahmad Khan**, an aspiring Data Analyst who enjoys building data pipelines, writing performant SQL, and turning data into business insights.
 
-######This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
